@@ -221,7 +221,7 @@ public class User {
             return;
         }
 
-        if(temporary<=1){
+        if(temporary<=0){
             System.out.println("Invalid Input");
             return;
         }
